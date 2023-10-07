@@ -6,6 +6,7 @@ This is a web based application developed for health related website in india
 
 
 **Project Link** - https://ambitious-river-09a006300.3.azurestaticapps.net/
+**Project Video Link** - https://youtu.be/1QgpWCQ9BRk 
 
 ##  AZURE TECHNOLOGIES USED FOR PROJECT
  - health bot
